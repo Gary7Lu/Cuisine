@@ -4,8 +4,8 @@
         .green-text{
         color:#30CD30;
         }
-        .yellow-text{
-        color:#e6f500;
+        .red-text{
+        color:#f5002f;
         }
     </style>
 
@@ -20,7 +20,7 @@
 <h2> 北京烤鴨的醬汁和蔥能帶來唾腺的分泌,與皮一起吃更是絕佳!!</h2>
 
  
-<p class="yellow-text"> 帶您了解北京烤鴨製作與上菜的影片 </p>
+<p class="red-text"> 帶您了解北京烤鴨製作與上菜的影片 </p>
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/hwA4qYkJ9-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
