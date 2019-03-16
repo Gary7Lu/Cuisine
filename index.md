@@ -1,7 +1,9 @@
 <html>
+<style>
   .green-text{
 color:#32CD32
 }
+</style>
 
 <h3>美食推薦</h3>
 <!--00-->
