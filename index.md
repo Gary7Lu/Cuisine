@@ -37,7 +37,7 @@ $(document).ready(function(){
     $("div").show();
   });
 });
-
+</script>
 
 <button id="hide"> hide </button>
 <button id="hide"> show </button>
