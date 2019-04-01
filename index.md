@@ -23,7 +23,8 @@
 <h1 class="red-text" >美味佳餚推薦</h1><p>
 
 <p class="-text" > 點擊圖片 即可到達本餐廳的介紹頁面 </p>
-
+<script>
+ 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
 </script>
 
@@ -43,7 +44,7 @@ $(document).ready(function(){
 <a href="http://www.china.org.cn/top10/2011-08/05/content_23143593_4.htm">
  <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" data-type="image" src="http://images.china.cn/attachement/jpg/site1007/20110804/0013729e78490fa4c43412.jpg"></a><p>
  
-
+</script>
   
 <h3> 北京烤鴨的醬汁和蔥能帶來唾腺不斷的分泌,搭配餅皮一起吃更是絕佳!!</h3><p>
 
