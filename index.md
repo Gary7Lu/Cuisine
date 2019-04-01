@@ -38,8 +38,8 @@ $(document).ready(function(){
 });
 </script>
 
-<button id="hide" id ="show"> hide & show </button>
-
+<button id="hide"> hide </button>
+<button id="hide"> show </button>
 <a href="http://www.china.org.cn/top10/2011-08/05/content_23143593_4.htm">
  <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" data-type="image" src="http://images.china.cn/attachement/jpg/site1007/20110804/0013729e78490fa4c43412.jpg"></a><p>
  
