@@ -19,8 +19,8 @@
     </style>
  </head>
 
+<marquee height="20" behavior="alternate" bgcolor="#ff9d6f">美味佳餚推薦</marquee>
 
-<h1 class="red-text" >美味佳餚推薦</h1><p>
 
 <p class="-text" > 點擊圖片 即可到達本餐廳的介紹頁面 </p>
 
