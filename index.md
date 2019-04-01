@@ -24,6 +24,7 @@
 
 <p class="-text" > 點擊圖片 即可到達本餐廳的介紹頁面 </p>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
    $("#hide").click(function(){
